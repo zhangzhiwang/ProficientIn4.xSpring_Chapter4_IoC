@@ -6,6 +6,6 @@ package com.asiainfo.ioc;
  * @author zhangzhiwang
  * @date 2019年1月24日 下午11:41:08
  */
-public interface ActorInjection { 
+public interface ActorInjection {  
 	void injectActor(Master m);
 }

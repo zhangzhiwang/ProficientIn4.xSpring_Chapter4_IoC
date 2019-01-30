@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * 有关classpath:和classpath*:的测试
  *
  * @author zhangzhiwang
- * @date 2019年1月25日 下午8:57:42 
+ * @date 2019年1月25日 下午8:57:42  
  */
 public class AboutClassPath {
 	public static void main(String[] args) {

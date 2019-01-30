@@ -7,7 +7,7 @@ package com.asiainfo.ioc;
  * @date 2019年1月24日 下午11:03:27
  */
 public class Master {
-	public void say() { 
+	public void say() {  
 		System.out.println("你会变成你想成为的人。");
 	}
 	

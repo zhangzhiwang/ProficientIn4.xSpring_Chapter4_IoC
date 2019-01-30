@@ -16,7 +16,7 @@ import org.springframework.core.io.support.ResourcePatternResolver;
  * @author zhangzhiwang
  * @date 2019年1月26日 上午9:42:14
  */
-public class ResourceLoaderDemo { 
+public class ResourceLoaderDemo {  
 	public static void main(String[] args) throws IOException {
 //		ResourcePatternResolver resourceLoader = new PathMatchingResourcePatternResolver();
 //		Resource[] resources = resourceLoader.getResources("classpath*:/**/*.xml");

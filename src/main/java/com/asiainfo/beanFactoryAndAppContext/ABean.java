@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 // 标名一个bean配置的提供类，表示该类提供bean的定义。注：该类提供的bean配置，bean的class属性可以不是该类，相见本类的getNewCar方法
 @Configuration
-public class ABean { 
+public class ABean {  
 	private String brand;
 	private String color;
 	private int maxSpeed;
