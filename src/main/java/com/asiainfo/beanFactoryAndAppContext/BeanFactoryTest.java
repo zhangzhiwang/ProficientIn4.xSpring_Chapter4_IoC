@@ -17,7 +17,7 @@ import org.springframework.core.io.support.ResourcePatternResolver;
 /**
  * 测试BeanFactory
  *
- * @author zhangzhiwang
+ * @author zhangzhiwang 
  * @date 2019年1月27日 下午6:59:55
  */
 public class BeanFactoryTest {

@@ -5,7 +5,7 @@ package com.asiainfo.ioc;
  *
  * @author zhangzhiwang
  * @date 2019年1月24日 下午11:31:13
- */
+ */ 
 public class Script3 {
 	private Master master;
 
